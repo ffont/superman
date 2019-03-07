@@ -1,6 +1,6 @@
 # Superman
 
-Audio Mosaicing command line utility to make an alternative version of a *target* audio file by concatenating chunks from a number of other *source* audio files. This code is adapted from a lab assignment of the [Master in Sound and Music Computing](https://www.upf.edu/web/smc) (of the [Music Technology Group](https://www.upf.edu/web/mtg)) which I did in 2009-2010. Original code provided in the lab assignment was by [Marteen de Boer](https://www.linkedin.com/in/maarten-de-boer-a508591/).
+*Superman* is an *audio mosaicing* command line utility to make an alternative version of a *target* audio file by concatenating chunks from a number of other *source* audio files. This code is adapted from a lab assignment of the [Master in Sound and Music Computing](https://www.upf.edu/web/smc) (of the [Music Technology Group](https://www.upf.edu/web/mtg)) which I did in 2009-2010. Original code provided in the lab assignment was by [Marteen de Boer](https://www.linkedin.com/in/maarten-de-boer-a508591/).
 
 
 ## Installation
