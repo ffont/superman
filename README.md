@@ -8,8 +8,8 @@
 This is a Python script that has the following Python requirements:
 
  * `essentia`
- * `sckikits.audiolab`
- * `sckikits.samplerate`
+ * `scikits.audiolab`
+ * `scikits.samplerate`
  * `numpy`
 
 Essentia should be installed separately following [these instructions](http://essentia.upf.edu/documentation/installing.html). The other requirements should be installed by running:
